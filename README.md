@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @m-mendes
 - 👀 I’m interested in Python, Security, IoT
 - 🌱 I’m currently learning Security, IoT
-- 💞️ I’m looking to collaborate on Security Projects
+- 👊 I’m looking to collaborate on Security Projects
 - 📫 How to reach me https://www.linkedin.com/in/matheus-pereira-mendes-900269192/
 
 <!---
